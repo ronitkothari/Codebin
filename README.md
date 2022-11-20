@@ -108,10 +108,3 @@ and the information pertaining to them.
 
 This project is Unlicensed and is free to be used! See [LICENSE](LICENSE.md) or <http://unlicense.org> for 
 more detailed information.
-
-<!-- CONTACT -->
-# Contact
-
-**Mathew Estafanous -** mathewestafanous13@gmail.com
-
-**Project Link -** https://github.com/Mathew-Estafanous/Ur-Codebin
