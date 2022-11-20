@@ -8,14 +8,10 @@
   <p align="center">
     Simple and easy to use code paste bin that allows easy code sharing!
     <br />
-    <a href="https://urcodebin.live/"><strong>View The Website »</strong></a>
+    <a href="http://ur-codebin.herokuapp.com/"><strong>View The Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ronitkothari/Ur-Codebin">Explore the docs</a>
-    ·
-    <a href="https://github.com/ronitkothari/Ur-Codebin/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ronitkothari/Ur-Codebin/issues">Request Feature</a>
+   
   </p>
 </p>
 
